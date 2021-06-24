@@ -3,4 +3,3 @@ cd unix-flavor/
 sudo git checkout v0.01
 sudo git rebase master
 git status
-ls -lrt
